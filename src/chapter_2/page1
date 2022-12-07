@@ -1,0 +1,8 @@
+● To check if the remote repository has any changes that our local repository does not have,
+we can fetch
+○ Fetch will bring the new data without added to our local project right away
+● To update your local repository with the new changes from the remote we can pull
+○ Pulling is more flexible. We will see later
+■ Branch to branch
+● Updating will apply changes to the same branch
+.git folder
